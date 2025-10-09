@@ -23,3 +23,15 @@
 body {
     background-color: var(--color-offwhite);
 }
+
+nav {
+    display: flex;
+    
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    width: 300px;
+}
