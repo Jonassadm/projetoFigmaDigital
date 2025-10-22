@@ -9,3 +9,6 @@
             right: 0%;
             transition-duration: 200ms;
         }
+
+
+        pseudoseletor
